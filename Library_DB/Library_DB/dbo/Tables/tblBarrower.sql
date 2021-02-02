@@ -1,0 +1,18 @@
+﻿CREATE TABLE [dbo].[tblBarrower] (
+	[Id] INT IDENTITY(1, 1) NOT NULL
+	,[Title] VARCHAR(3) NOT NULL
+	,[FirstName] VARCHAR(30) NOT NULL
+	,[LastName] VARCHAR(30) NOT NULL
+	,[AddressLine1] VARCHAR(30) NOT NULL
+	,[AddressLine2] VARCHAR(30) NULL
+	,[City] VARCHAR(30) NOT NULL
+	,[StateName] VARCHAR(30) NOT NULL
+	,[Country] VARCHAR(30) NOT NULL
+	,[PostCode] VARCHAR(10) NOT NULL
+	,[CountryCode] VARCHAR(5) NOT NULL
+	,[MobileNumber] VARCHAR(10) NOT NULL
+	,[EmailId] VARCHAR(20) NOT NULL
+	,[BarrowerType] VARCHAR(20) NOT NULL
+	,[LastUpdated] DATE NULL
+	,CONSTRAINT [Id_PK] PRIMARY KEY CLUSTERED ([Id] ASC)
+	);

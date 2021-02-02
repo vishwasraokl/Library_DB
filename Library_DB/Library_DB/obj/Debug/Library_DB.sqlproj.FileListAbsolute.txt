@@ -1,0 +1,6 @@
+C:\Users\vrao\Documents\Work\Azure-Practice\repos\Library_DB\Library_DB\Library_DB\bin\Debug\Library_DB.dacpac
+C:\Users\vrao\Documents\Work\Azure-Practice\repos\Library_DB\Library_DB\Library_DB\bin\Debug\Library_DB.dll
+C:\Users\vrao\Documents\Work\Azure-Practice\repos\Library_DB\Library_DB\Library_DB\bin\Debug\Library_DB.pdb
+C:\Users\vrao\Documents\Work\Azure-Practice\repos\Library_DB\Library_DB\Library_DB\obj\Debug\Library_DB.sqlprojAssemblyReference.cache
+C:\Users\vrao\Documents\Work\Azure-Practice\repos\Library_DB\Library_DB\Library_DB\obj\Debug\Library_DB.dll
+C:\Users\vrao\Documents\Work\Azure-Practice\repos\Library_DB\Library_DB\Library_DB\obj\Debug\Library_DB.pdb
