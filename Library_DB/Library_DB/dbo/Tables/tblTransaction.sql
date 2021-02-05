@@ -1,5 +1,5 @@
 ﻿CREATE TABLE [dbo].[tblTransaction] (
-	[TransactionId] INT NOT NULL
+	[TransactionId] INT NOT NULL IDENTITY (0,0)
 	,[BarrowerId] INT NOT NULL
 	,[BookId] INT NOT NULL
 	,[BarrowedDateTime] DATETIME NOT NULL
