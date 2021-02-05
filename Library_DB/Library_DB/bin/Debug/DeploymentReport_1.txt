@@ -1,0 +1,21 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       [dbo].[tblTransaction]
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Table rebuild
+       [dbo].[tblTransaction] (Table)
+
+** Supporting actions
+     Drop
+       [dbo].[FK_tblBarrower_tblTransaction] (Foreign Key)
+       [dbo].[FK_tblBook_tblTransaction] (Foreign Key)
+     Create
+       [dbo].[FK_tblBarrower_tblTransaction] (Foreign Key)
+       [dbo].[FK_tblBook_tblTransaction] (Foreign Key)
