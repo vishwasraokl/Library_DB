@@ -4,3 +4,7 @@ C:\Users\vrao\Documents\Work\Azure-Practice\repos\Library_DB\Library_DB\Library_
 C:\Users\vrao\Documents\Work\Azure-Practice\repos\Library_DB\Library_DB\Library_DB\obj\Debug\Library_DB.sqlprojAssemblyReference.cache
 C:\Users\vrao\Documents\Work\Azure-Practice\repos\Library_DB\Library_DB\Library_DB\obj\Debug\Library_DB.dll
 C:\Users\vrao\Documents\Work\Azure-Practice\repos\Library_DB\Library_DB\Library_DB\obj\Debug\Library_DB.pdb
+C:\Users\vrao\Documents\Work\Azure-Practice\repos\Library_DB\Library_DB\Library_DB\obj\Debug\Model.xml
+C:\Users\vrao\Documents\Work\Azure-Practice\repos\Library_DB\Library_DB\Library_DB\obj\Debug\refactor.xml
+C:\Users\vrao\Documents\Work\Azure-Practice\repos\Library_DB\Library_DB\Library_DB\obj\Debug\postdeploy.sql
+C:\Users\vrao\Documents\Work\Azure-Practice\repos\Library_DB\Library_DB\Library_DB\obj\Debug\predeploy.sql
